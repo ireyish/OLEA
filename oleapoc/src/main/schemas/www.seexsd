@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xsd:schema xmlns="http://www.seeburger.com/oleapoc/www" xmlns:bic="http://www.seeburger.com/bicng/lang/schema/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" bic:messageType="XML" elementFormDefault="qualified" targetNamespace="http://www.seeburger.com/oleapoc/www">
+  <xsd:element name="www">
+    <xsd:complexType>
+      <xsd:sequence/>
+    </xsd:complexType>
+  </xsd:element>
+</xsd:schema>
